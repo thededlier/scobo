@@ -1,5 +1,8 @@
 # Scobo
 
+An Information Retrieval System to retrive data from News Articles.
+
+
 To build the project
 
 ```
